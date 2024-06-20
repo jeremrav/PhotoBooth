@@ -1,0 +1,15 @@
+{
+  "originHash" : "0237034f4487972301af02d56370ecc82eaff76d9ecc69d6421307bbf79c53e2",
+  "pins" : [
+    {
+      "identity" : "printingkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/PrintingKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "36c6d121eefef73af44271b745a9793b8fca0c2e"
+      }
+    }
+  ],
+  "version" : 3
+}
